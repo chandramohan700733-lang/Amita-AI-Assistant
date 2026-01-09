@@ -24,14 +24,4 @@
 * **AI Model:** Google Generative AI (Gemini)
 * **Voice:** Edge TTS (Microsoft Edge Text-to-Speech)
 * **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
-
 ---
-
-## 🚀 Installation & Setup
-
-Want to run Amita on your local machine? Follow these steps:
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/YOUR_USERNAME/Amita-AI-Assistant.git](https://github.com/YOUR_USERNAME/Amita-AI-Assistant.git)
-cd Amita-AI-Assistant
